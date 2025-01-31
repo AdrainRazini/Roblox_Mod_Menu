@@ -12,7 +12,7 @@ O uso de mods e scripts em jogos online pode violar os Termos de Serviço do Rob
 ## 📂 Estrutura do Projeto
 ```
 Roblox_Mod_Menu/
-├── scripts/          # Scripts principais do mod menu         # Arquivos de configuração
+├── scripts/          # Scripts principais do mod menu     
 ├── README.md         # Documentação do projeto
 └── Mastermod         # Arquivo principal do mod menu
 ```
